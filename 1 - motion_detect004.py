@@ -38,7 +38,9 @@ t_end = []
 """
 Capture video from file
 """
-file  ="example_video/Cam1/GX010391_trim.mp4" #cam1
+file  ="example_video/Cam2/GX010417.mp4" #cam1
+
+# file  ="example_video/Cam1/GX010391_trim.mp4" #cam1
 # file = "example_video/Cam2/GH010578_trim.mp4" #cam2
 
 cap = cv2.VideoCapture(file)
