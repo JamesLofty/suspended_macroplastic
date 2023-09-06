@@ -1,6 +1,6 @@
 # suspended_macroplastic
- suspended_macroplastic
-Codes and data for the automated plastic detection routine for experimental tests on the settling and trasnport bed load, suspended and surfaced macroplastic samples
+
+Codes and data for the bounding box automated detection routine for experimental tests on the settling and trasnport of bed load, suspended and surfaced macroplastic samples
 
 Author: James Lofty
 
